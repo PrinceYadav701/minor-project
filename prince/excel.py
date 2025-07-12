@@ -1,0 +1,10 @@
+import pandas as pd
+df=pd.read_excel('excel.xlsx')
+# print(df)
+# print(df.head())
+# print(df.tail())
+# print(dq.shape)
+# print(df.info())
+print(df.describe())
+# print(dq.columns)
+# print(dq.dtypes)
